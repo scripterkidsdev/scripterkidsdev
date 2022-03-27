@@ -5,3 +5,5 @@
 - 📫 How to reach me ...
 
 - I ❤ Lua
+- 
+- [![Discord Presence](https://lanyard.cnrad.dev/api/:853165212135587870)](https://discord.com/users/:853165212135587870)
