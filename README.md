@@ -5,5 +5,10 @@
 - 📫 How to reach me ...
 
 - I ❤ Lua
-- 
-- [![Discord Presence](https://lanyard.cnrad.dev/api/853165212135587870)](https://discord.com/users/853165212135587870)
+
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/853165212135587870" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/853165212135587870?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   </a>
+</div>
