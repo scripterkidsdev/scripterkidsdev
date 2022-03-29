@@ -1,3 +1,6 @@
+[![Beta](https://cdn.discordapp.com/attachments/919566811752722433/958358647795249233/Scripter_Kids.png)](https://github.com/scripterkidsdev)
+
+
 <div align="center">
 <h3>Languages and Tools</h3>
 <a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
