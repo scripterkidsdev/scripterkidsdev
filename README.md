@@ -29,4 +29,4 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/964521958341500968?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
    </a>
 </div>
-<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
